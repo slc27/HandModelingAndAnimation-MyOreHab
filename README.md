@@ -75,7 +75,7 @@ Este proyecto está licenciado bajo la [MIT License](LICENSE).
   - [Blender Donut Tutorial](https://youtu.be/B0J27sf9N1Y?si=I66uXb5myvBVIiyr) por Blender Guru.
   - [Mano Simple](https://youtu.be/__H-gAxCDts?si=-oRYWrjbxJMW5hKn) por PIXXO 3D.
   - [Mano Final](https://youtu.be/Qw_Xq5M2oF4?si=0oK1hnq22RlCgCWW) por SilverWilliam 3D Artist.
-- **Desarrollador**: [Santiago Limorte](www.linkedin.com/in/limortesantiago)
+- **Desarrollador**: [Santiago Limorte](https://www.linkedin.com/in/limortesantiago/)
 
 ## Contacto
 
